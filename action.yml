@@ -2,7 +2,7 @@ name: 'Attest Build Provenance'
 description: 'Generate provenance attestations for build artifacts'
 author: 'GitHub'
 branding:
-  color: 'magenta'
+  color: 'purple'
   icon: 'lock'
 
 inputs:
